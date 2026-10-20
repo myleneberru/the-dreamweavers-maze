@@ -8,9 +8,9 @@ Play as a wizard trapped in enchanted worlds: escape a dungeon, gather ingredien
 
 ## Watch the gameplay
 
-[![The Dreamweaver’s Maze — watch the gameplay demo on YouTube](https://img.youtube.com/vi/7fKR0kQXZP4/hqdefault.jpg)](https://youtu.be/7fKR0kQXZP4)
-
-**[▶ Watch the full demo on YouTube](
+<a href="https://youtu.be/7fKR0kQXZP4">
+  <img src="https://img.youtube.com/vi/7fKR0kQXZP4/hqdefault.jpg" alt="The Dreamweaver’s Maze — Gameplay Demo" width="100%">
+</a>
 
 ## The adventure
 
