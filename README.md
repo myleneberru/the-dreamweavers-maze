@@ -63,8 +63,6 @@ Credits and contribution summaries are based on the final report, section 6. Thi
 
 The scripts come from the May 22, 2024 submission folder, alongside the original report, Android APK and demonstration video. Script contents are preserved unchanged; Unity `.meta` files are retained.
 
-The later timestamp on `VR final/VR/Project/Assets/Scripts/CauldronController.cs` corresponds only to removal of an unused field and formatting changes. No behavior change was found, so the submitted version is retained.
-
 ## Dependencies and reconstruction
 
 These scripts depend on the original scene setup, serialized Inspector references, prefabs, colliders, layers, tags, Oculus integration and third-party components. `Outline.cs` (QuickOutline, Chris Nolet) is deliberately excluded as third-party code; scripts using `Outline` require that dependency.
