@@ -6,6 +6,23 @@ Play as a wizard trapped in enchanted worlds: escape a dungeon, gather ingredien
 
 **This repository is a gameplay code showcase.** It does not contain the complete Unity project, scenes, models, textures, audio or Oculus SDK. It cannot be opened and played as a standalone Unity project.
 
+## Watch the gameplay
+
+[![The Dreamweaver’s Maze — watch the gameplay demo on YouTube](https://img.youtube.com/vi/7fKR0kQXZP4/hqdefault.jpg)](https://youtu.be/7fKR0kQXZP4)
+
+**[▶ Watch the full demo on YouTube](
+
+## The adventure
+
+Trapped in enchanted worlds, you must use magic, solve puzzles and interact with your surroundings to find a way out.
+
+| World | Your challenge |
+| --- | --- |
+|  Tutorial | Discover how to grab objects, open doors and interact with the world. |
+|  Dungeon | Light torches with your wand and solve a puzzle to activate the exit portal. |
+|  Magic Garden | Collect ingredients in a basket, follow a recipe and brew a teleportation potion. |
+|  Crystal Mine | Ride a minecart and avoid obstacles to reach the final passage.
+
 ## Gameplay and code
 
 - Grab, release and throw objects: `HandController`, `GrabbableObject`, `ThrowableObject`.
@@ -26,19 +43,7 @@ The original build scene order is: tutorial → prison cell → magic garden →
 
 Versions are recorded from the delivered project. Compatibility with current Unity or headset software has not been tested.
 
-## Source version
-
-The scripts come from the May 22, 2024 submission folder, alongside the original report, Android APK and demonstration video. Script contents are preserved unchanged; Unity `.meta` files are retained.
-
-The later timestamp on `VR final/VR/Project/Assets/Scripts/CauldronController.cs` corresponds only to removal of an unused field and formatting changes. No behavior change was found, so the submitted version is retained.
-
-## Dependencies and reconstruction
-
-These scripts depend on the original scene setup, serialized Inspector references, prefabs, colliders, layers, tags, Oculus integration and third-party components. `Outline.cs` (QuickOutline, Chris Nolet) is deliberately excluded as third-party code; scripts using `Outline` require that dependency.
-
-See [third-party inventory](docs/THIRD_PARTY.md) for omitted resources. To run the complete game, use the original delivered Unity project and its licensed dependencies. This repository alone is insufficient to reconstruct it.
-
-## My contribution — Mylène Berruyer
+## My contribution
 
 As documented in the final project report, I worked on:
 
@@ -52,16 +57,20 @@ Relevant scripts include `HandController.cs`, `ThrowableObject.cs`, `BasketContr
 
 ## Team
 
-- **Mylène Berruyer:** throwing and container interactions; Magic Garden and potion mechanics.
-- **Nicolas Francio:** door joint interaction; Final Cave, minecart course and hazards; final transition and debugging support.
-- **Solène Noize:** locomotion methods; tutorial and final scene; scene integration and interaction fixes.
-- **Pierre Stoeber:** dungeon, puzzle and magic wand.
-
 Credits and contribution summaries are based on the final report, section 6. This repository contains group code; individual work is identified above.
 
-## Demo
+## Source version
 
-Watch the gameplay demonstration: [The Dreamweaver’s Maze — VR Demo](https://youtu.be/7fKR0kQXZP4).
+The scripts come from the May 22, 2024 submission folder, alongside the original report, Android APK and demonstration video. Script contents are preserved unchanged; Unity `.meta` files are retained.
+
+The later timestamp on `VR final/VR/Project/Assets/Scripts/CauldronController.cs` corresponds only to removal of an unused field and formatting changes. No behavior change was found, so the submitted version is retained.
+
+## Dependencies and reconstruction
+
+These scripts depend on the original scene setup, serialized Inspector references, prefabs, colliders, layers, tags, Oculus integration and third-party components. `Outline.cs` (QuickOutline, Chris Nolet) is deliberately excluded as third-party code; scripts using `Outline` require that dependency.
+
+See [third-party inventory](docs/THIRD_PARTY.md) for omitted resources. To run the complete game, use the original delivered Unity project and its licensed dependencies. This repository alone is insufficient to reconstruct it.
+
 
 ## Rights
 
