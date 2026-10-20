@@ -1,0 +1,41 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+Recordings/
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+*.apk
+*.aab
+*.app/
+*.unitypackage
+# Local credentials
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+# Omitted third-party resources
+/Assets/Oculus/
+/Assets/Assets/
+/Assets/QuickOutline/
+/Assets/Scripts/Outline.cs
+/Assets/Scripts/Outline.cs.meta

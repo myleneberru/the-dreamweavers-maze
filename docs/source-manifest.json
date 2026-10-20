@@ -1,0 +1,309 @@
+{
+  "source": "MA2/2024_cs444_vr_project_group_10/Sources",
+  "files": [
+    {
+      "path": "Assets/Scripts/AmbientSound.cs",
+      "sha256": "68a73a55411ac977edfe9111c9c6c6c20fda8839f91cd2852b0dc0edf01bf9d7"
+    },
+    {
+      "path": "Assets/Scripts/AmbientSound.cs.meta",
+      "sha256": "10a2384d9608d8cb716898180abb260d73520e940d46afb61991d2bcc6e44253"
+    },
+    {
+      "path": "Assets/Scripts/AttachToCar.cs",
+      "sha256": "eb631209033ed66c368c3e82da5d09774e05204dd601b89cf5af5e4628efc03b"
+    },
+    {
+      "path": "Assets/Scripts/AttachToCar.cs.meta",
+      "sha256": "dc79192fa55aefc8dbb703f621de4f3f686dd916026a9c9ddf8c1364b18f9b10"
+    },
+    {
+      "path": "Assets/Scripts/BasketController.cs",
+      "sha256": "f75827ad3154f78c5df70a6922828c672a9603dfac2814936366a40c5dceb30f"
+    },
+    {
+      "path": "Assets/Scripts/BasketController.cs.meta",
+      "sha256": "66174bdb9732bacfd9a2c1452d4dd235bd6b9f96883a24e60357230026dcdaa5"
+    },
+    {
+      "path": "Assets/Scripts/CanvasController.cs",
+      "sha256": "e71c4171324607531a5aac6deb6f0157a458173def7ed067e15ff0a7fb95098e"
+    },
+    {
+      "path": "Assets/Scripts/CanvasController.cs.meta",
+      "sha256": "432c5e6ac418820aab5e89ddd7536817ec3ed7968d8f28d422da43d4632ab9a1"
+    },
+    {
+      "path": "Assets/Scripts/CauldronController.cs",
+      "sha256": "9ddfd2e3d6bc014b351bb662088dc45a030d17425742af9b353b90a77f1f5511"
+    },
+    {
+      "path": "Assets/Scripts/CauldronController.cs.meta",
+      "sha256": "cebe7feeaf734713593685ebba2ae7a1eb961538515b25e332d0db4ac42a77f2"
+    },
+    {
+      "path": "Assets/Scripts/ChangeSceneManager.cs",
+      "sha256": "27572790ff6737718df67eaf625c0f8f96457939d82fd6c221f36193183ac1e2"
+    },
+    {
+      "path": "Assets/Scripts/ChangeSceneManager.cs.meta",
+      "sha256": "2eab93116f2afb5009872f677aee0dbe4188bc9c5ac5510f051403f755b06808"
+    },
+    {
+      "path": "Assets/Scripts/ControllerTeleport.cs",
+      "sha256": "29eb2a55b9ac76085ff998e957571efab29e08eb1dac75674eb230f0abd15c5a"
+    },
+    {
+      "path": "Assets/Scripts/ControllerTeleport.cs.meta",
+      "sha256": "7b733cdb72ac30fdc02e454302e42aab8775fc7336cdfac7bdec810f2c2a38d3"
+    },
+    {
+      "path": "Assets/Scripts/DoorSound.cs",
+      "sha256": "16ce26167344fcaedfeac8bb0c909d53bea8867640f134db16cf00fcef015d6d"
+    },
+    {
+      "path": "Assets/Scripts/DoorSound.cs.meta",
+      "sha256": "d119844e4460a836bdf190d069628257199e92e7ff0483b84d5457acf32a756d"
+    },
+    {
+      "path": "Assets/Scripts/FinishController.cs",
+      "sha256": "6d6fa97f8df6e9d8bddecf223c06a64a530f72452e5f33568ba14bfb65a32d66"
+    },
+    {
+      "path": "Assets/Scripts/FinishController.cs.meta",
+      "sha256": "87bebe5e8c3b3492636d4888b474d86a5d08da96404c2ed4242ba3e48ab6b93f"
+    },
+    {
+      "path": "Assets/Scripts/FollowObject.cs",
+      "sha256": "402ad920274d2db03b220215a14cecc631ad4d60abf33d208ca7c8e6b66132cb"
+    },
+    {
+      "path": "Assets/Scripts/FollowObject.cs.meta",
+      "sha256": "b1ca427a2db57419f46ec4f64ebd32802a2d3d4718898d2b5a0e27caedeee3ea"
+    },
+    {
+      "path": "Assets/Scripts/GrabbableObject.cs",
+      "sha256": "2bee52268aaa30d17ee143ed90ec16e1003e573388b8e39aa71634e7848948d9"
+    },
+    {
+      "path": "Assets/Scripts/GrabbableObject.cs.meta",
+      "sha256": "e1b15a4b08986f3fba4c0fa3101a034d6c2534710f1cdd6c5f49b79ae676b573"
+    },
+    {
+      "path": "Assets/Scripts/HandController.cs",
+      "sha256": "669bdf27cfd901afbd7b1b9632766924add897d5279e88f4f322d57891e47759"
+    },
+    {
+      "path": "Assets/Scripts/HandController.cs.meta",
+      "sha256": "3f86ff51315638fa85312d3e74ee02c5c1e629f188ea4ecc3322e88fe8576836"
+    },
+    {
+      "path": "Assets/Scripts/HandleAnchor.cs",
+      "sha256": "dee851810f30001182208ee137dd3b73c21870de8fd275f21c78a45d44ec52b3"
+    },
+    {
+      "path": "Assets/Scripts/HandleAnchor.cs.meta",
+      "sha256": "01ac8f85a5682658570bce659dfc30ddc51741e0b4d07053223f6325f9350010"
+    },
+    {
+      "path": "Assets/Scripts/HapticsController.cs",
+      "sha256": "6316c9a89e6e8d9cc4dea435eeeb40c10155ebf499b55dd42a15c008eb95bef6"
+    },
+    {
+      "path": "Assets/Scripts/HapticsController.cs.meta",
+      "sha256": "cb3421e676ecf3bfad582da070c618cd73ebc8773324c4bad3eb72946bf2dd8e"
+    },
+    {
+      "path": "Assets/Scripts/InteractiveObject.cs",
+      "sha256": "aeaadd1228db45af0d5d6cdef6b303e0a29c641193802e4e94b33acc225c40f5"
+    },
+    {
+      "path": "Assets/Scripts/InteractiveObject.cs.meta",
+      "sha256": "4062916c1e976121de91eb100384bda8d9e205587d4a80e7001622f70da47957"
+    },
+    {
+      "path": "Assets/Scripts/LavaCollision.cs",
+      "sha256": "791bd35322d43eb25a6d2fb75d763dc834f2e8a6a43cda77fdba3cd6765aaf0e"
+    },
+    {
+      "path": "Assets/Scripts/LavaCollision.cs.meta",
+      "sha256": "3ba1ba50888b3d8b28ea7a95fa5fdf0fcba26e64cfb331a50c1cc4b3a0eecbf3"
+    },
+    {
+      "path": "Assets/Scripts/LightController.cs",
+      "sha256": "3695ea0979ccf9b38b0c88a60f8663b07994a2bafeff63599d20ef86034dddee"
+    },
+    {
+      "path": "Assets/Scripts/LightController.cs.meta",
+      "sha256": "7d97517cf55e715f3317cdaf3dd67ad72839c7cbacc93f73da39f9dc0d9676e0"
+    },
+    {
+      "path": "Assets/Scripts/LightsOff.cs",
+      "sha256": "16e9729fe8372e347035d1fdecca43444ca942c051eb3648a246b78a68b42708"
+    },
+    {
+      "path": "Assets/Scripts/LightsOff.cs.meta",
+      "sha256": "61808685b5e905fdfd48f220ac57b9ef7f1894e1d73f9e923a62aacdd9f821c2"
+    },
+    {
+      "path": "Assets/Scripts/MainPlayerController.cs",
+      "sha256": "73590d38c0de2028c159b9b235057106735f422e0d90b5901e4ba983bd0a481b"
+    },
+    {
+      "path": "Assets/Scripts/MainPlayerController.cs.meta",
+      "sha256": "abc3703accebd1a4c95e19b9a6b604633c6410fa18bc3142220bbc340d0320e7"
+    },
+    {
+      "path": "Assets/Scripts/MoveCar.cs",
+      "sha256": "0960643f68695989ddea6e4bf3d9c4db6aff6f413e9186698be81d4f3a7f8fe3"
+    },
+    {
+      "path": "Assets/Scripts/MoveCar.cs.meta",
+      "sha256": "c94e1d9d410acf91fba776fd3e75c02434073d866779df72dbb34997f04baa30"
+    },
+    {
+      "path": "Assets/Scripts/NoteAppear.cs",
+      "sha256": "e761b78d52687a1f73a0d73223e09ab2f81519ef45f3c42e7737ad5f0af37a42"
+    },
+    {
+      "path": "Assets/Scripts/NoteAppear.cs.meta",
+      "sha256": "d093ab38b159067b076165e27df97a472ea8e3175547815825055ee50649be93"
+    },
+    {
+      "path": "Assets/Scripts/ObjectAnchor.cs",
+      "sha256": "63b54a792cdad83f767467df0e34a381c33f5325ab7507e2a8c9f7c372234cf4"
+    },
+    {
+      "path": "Assets/Scripts/ObjectAnchor.cs.meta",
+      "sha256": "bead9eeb1669549a8779f018b2c69c493c551a9173029b737fce4feb1819b083"
+    },
+    {
+      "path": "Assets/Scripts/PendulumCollision.cs",
+      "sha256": "db9784339211148c9f1c8876e5f4cfd40f79e0fe8ff46981982dfdfa3cfaac66"
+    },
+    {
+      "path": "Assets/Scripts/PendulumCollision.cs.meta",
+      "sha256": "33005e77a1523e85069b84f74609052c2c0f3973b2c06bf90c666ce4676d9480"
+    },
+    {
+      "path": "Assets/Scripts/PendulumController.cs",
+      "sha256": "196098e912828236af2a0da08251cb483d44bfb67d505cc8d84ce2412fe613cb"
+    },
+    {
+      "path": "Assets/Scripts/PendulumController.cs.meta",
+      "sha256": "f5750f934fd4a35ca3f7dc64d3bf8386ec78d0c7d62efa58bdc4177e6fbd1a2b"
+    },
+    {
+      "path": "Assets/Scripts/Portal.cs",
+      "sha256": "c146f7f71c8052abe0f9499f4847ec5897f163491178082b21e75da128b12511"
+    },
+    {
+      "path": "Assets/Scripts/Portal.cs.meta",
+      "sha256": "48b3103dc29f74c70547fd72219fd61dd7102d18a7ca5d09aeaa3f9ec7f044a0"
+    },
+    {
+      "path": "Assets/Scripts/PortalAnimation.cs",
+      "sha256": "c2c8e5e55a5ed899bcfe895455a3f809e3e752c325b4c342bcf486cb920ded6a"
+    },
+    {
+      "path": "Assets/Scripts/PortalAnimation.cs.meta",
+      "sha256": "0c5266ec4a7b43688116338bf442bcc50c63af04014c8a46cfd5e67c30398daf"
+    },
+    {
+      "path": "Assets/Scripts/PortalTuto.cs",
+      "sha256": "edcad0f9c14184e6f5e5f6e483413cb12c8879297110dce0d9192388437b44a3"
+    },
+    {
+      "path": "Assets/Scripts/PortalTuto.cs.meta",
+      "sha256": "a69a9ea0f636c2ad13f3a743809f67a24c7edc258277880dcff746d8ebfbe1ab"
+    },
+    {
+      "path": "Assets/Scripts/PotionManager.cs",
+      "sha256": "cacd4d1daa635be0060e646c0eab3e9675fc0512bfe75bbdf98a65427fc16cf8"
+    },
+    {
+      "path": "Assets/Scripts/PotionManager.cs.meta",
+      "sha256": "4556734809a8ef84b1525fc79d7e7121c81780e19b70846f50bb90a2fe925f75"
+    },
+    {
+      "path": "Assets/Scripts/PuzzleController.cs",
+      "sha256": "63ac4291b65188fec66a055201740d8920f526f2267f6d571d773270515465ef"
+    },
+    {
+      "path": "Assets/Scripts/PuzzleController.cs.meta",
+      "sha256": "e794176d840f205d75d94c62c154125e472690ab29fd45fed0b1261c8e263152"
+    },
+    {
+      "path": "Assets/Scripts/PuzzleObject.cs",
+      "sha256": "476cf34065c18b9fa6b39c65df16b06f1d8247bdc69a7a12373dfb827b15014f"
+    },
+    {
+      "path": "Assets/Scripts/PuzzleObject.cs.meta",
+      "sha256": "7dd6ed8f2dbf60fbcaf79bcf7b15f8a8a3e41309387e5f472c28c155650986cf"
+    },
+    {
+      "path": "Assets/Scripts/RedCar.cs",
+      "sha256": "c95e500e036c72c3b26b3fa8fee6cdef4deebb5bec1ef185c6cfa67c1aade611"
+    },
+    {
+      "path": "Assets/Scripts/RedCar.cs.meta",
+      "sha256": "033c5d68f5a84b50c64a495f5f0722589c91a6efa69c612edf592c34c10a1d70"
+    },
+    {
+      "path": "Assets/Scripts/SimpleSkeletonController.cs",
+      "sha256": "d2352c3bce777a52c4d74b8ed7c70e62a3863dbf23047fa2fd08cd0f008f65cb"
+    },
+    {
+      "path": "Assets/Scripts/SimpleSkeletonController.cs.meta",
+      "sha256": "e45a6d6dbe6cbb6befe7e77fcddff6dc588e8b8e86a28092277abec7f16d773b"
+    },
+    {
+      "path": "Assets/Scripts/SoundManager.cs",
+      "sha256": "42e81e1f93d0623dafc4e1704a48164e02140129a409268c3ffd9e63d9f7f60c"
+    },
+    {
+      "path": "Assets/Scripts/SoundManager.cs.meta",
+      "sha256": "bd106bf5085617366c976bd6a1fca1ae2a2b94dd448882b1fa89031fdfce4fec"
+    },
+    {
+      "path": "Assets/Scripts/ThrowableObject.cs",
+      "sha256": "623b2b067b02ad3506ee9f5e3cf3e61e2582e20aa59c7d32e5ff4b14b796e017"
+    },
+    {
+      "path": "Assets/Scripts/ThrowableObject.cs.meta",
+      "sha256": "addd5739389f56fc8441b3ce004506ad89f42fdd0507e41135cfb506b0dfbbd5"
+    },
+    {
+      "path": "Assets/Scripts/TorchObject.cs",
+      "sha256": "dd2f060415c142c56ae5769597ef84dbd815757459b40d4eb5340050e4979077"
+    },
+    {
+      "path": "Assets/Scripts/TorchObject.cs.meta",
+      "sha256": "5be605f3ffbdad4ef0ac837299c937fd6cb0990eff3f10a078fa85f8c09a02fa"
+    },
+    {
+      "path": "Assets/Scripts/WandController.cs",
+      "sha256": "b3b175f07317f477325b38c40b32b5a7139c0ed8e9b24eb6c9ab927cdce8db83"
+    },
+    {
+      "path": "Assets/Scripts/WandController.cs.meta",
+      "sha256": "6cdfb12d2f09addedb2290c6d04468180864f799c5abe8ec75e8b1c264dbe2fc"
+    },
+    {
+      "path": "Assets/Scripts/WandObject.cs",
+      "sha256": "06c7a26008703fd7a6f9b5d2b302a9429cb2d5283e750b734cb13ce7bc2757bc"
+    },
+    {
+      "path": "Assets/Scripts/WandObject.cs.meta",
+      "sha256": "eea6f51fb0db9314c2505ce8383373e395083e08cbcec07b650a2b7b49d0bacd"
+    },
+    {
+      "path": "Assets/Scripts/Wineglass.cs",
+      "sha256": "c24d168b6e5f94f184226318bdd74425c095ab9b69c4618467e9fab3efc609a6"
+    },
+    {
+      "path": "Assets/Scripts/Wineglass.cs.meta",
+      "sha256": "c7aa0466d1f67a53bb5a80fddc8d9c5e1e150d52d61622f210b97da34c3d3a20"
+    }
+  ]
+}
