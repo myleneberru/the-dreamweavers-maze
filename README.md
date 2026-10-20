@@ -1,6 +1,6 @@
 # The Dreamweaver’s Maze
 
-A virtual reality adventure developed with Unity and C# for EPFL’s CS-444 Virtual Reality course, Spring 2024 (Group 10, Professor Ronan Boulic).
+A virtual reality adventure developed with Unity and C#.
 
 Play as a wizard trapped in enchanted worlds: escape a dungeon, gather ingredients in a magical garden, brew a teleportation potion and navigate a minecart through a crystal mine. The experience combines physical object interactions, puzzles, magic and locomotion.
 
@@ -9,7 +9,7 @@ Play as a wizard trapped in enchanted worlds: escape a dungeon, gather ingredien
 ## Watch the gameplay
 
 <a href="https://youtu.be/7fKR0kQXZP4">
-  <img src="https://img.youtube.com/vi/7fKR0kQXZP4/hqdefault.jpg" alt="The Dreamweaver’s Maze — Gameplay Demo" width="100%">
+  <img src="https://img.youtube.com/vi/7fKR0kQXZP4/hqdefault.jpg" alt="The Dreamweaver’s Maze — Gameplay Demo" width="60%">
 </a>
 
 ## The adventure
